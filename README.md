@@ -10,18 +10,21 @@ TODO:
 
 # Conecte ao Tsuru server
 
+```
 tsuru target add pythonbr https://pythonbrasil.tsuru.io -s
 tsuru login
-
+```
 
 # Criando aplicação
 
+```
 tsuru app create {SEU-GITHUB} python --team pythonbr
-
+```
 
 # Deploy da Aplicação
 
+```
 tsuru app deploy -a {SEU-GITHUB} .
-
+``` 
 
 # Feedback
