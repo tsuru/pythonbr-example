@@ -27,4 +27,9 @@ tsuru app create {SEU-GITHUB} python --team pythonbr
 tsuru app deploy -a {SEU-GITHUB} .
 ``` 
 
+
+# Dashboard
+
+https://tsuru-dashboard.pythonbrasil.tsuru.io/
+
 # Feedback
