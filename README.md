@@ -6,7 +6,9 @@ Conheça como funciona o tsuru.io
 
 # Instale o Client
 
-TODO:
+```
+curl -fsSL "https://tsuru.io/get" | bash
+```
 
 # Conecte ao Tsuru server
 
