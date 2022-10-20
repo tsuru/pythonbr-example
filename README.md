@@ -35,3 +35,5 @@ tsuru app deploy -a {SEU-GITHUB} .
 https://tsuru-dashboard.pythonbrasil.tsuru.io/
 
 # Feedback
+
+https://bit.ly/tsuru-feedback
